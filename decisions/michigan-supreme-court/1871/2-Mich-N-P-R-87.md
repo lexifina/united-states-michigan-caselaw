@@ -1,0 +1,27 @@
+---
+court: "Michigan Supreme Court"
+decided: "1871-04"
+citations: ["2 Mich. N.P. R. 87"]
+reporter: "mich-np-r"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Josselyn vs. McAllister."]
+source_url: "https://static.case.law/mich-np-r/2/cases/0087-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3869695
+---
+
+# Josselyn v. McAllister
+
+## Majority (Campbell, C.. J.)
+
+Opinion by
+Campbell, C.. J.
+The action below was for false imprisonment and malicious prosecution, the injuries complained of being two successive arrests on what was claimed to be an insufficient showing in law. The case went to the jury on the counts for false imprisonment, and judgment was rendered for the plaintiff below, and was removed to the Supreme Court. The plaintiff below was allowed to show the temper and demeanor of Josselyu when arrested in the present action, and gave proof of angry conduct and expressions on that occasion and subsequently. This evidence was introduced to show motive in Josselyn at the time he made the affidavits for McAllister’s arrest some months before, held, That such evidence was uot proper for such purpose. His declarations and admissions concerning the former tranaaction would be evidence against him and seem to have been received without objection. But the mere fact that he was vindictive and sullen when arrested has no bearing on his state of mind when he was causing some one else to he arrested.
+There was evidence that some negotiations had been had through the medium of Mr. Cheever, one of .the attorneys oí of Josselyn, in regard to a settlement of the matters out of which the arrests complained of originated. The Court below' refused to admit proof of what Cheever told Josselyn concerning that arrangement. Held, That if such evidence showed facts of such a nature as to indicate that the party believing them may have acted upon them without improper motives and in good faith, it might bear somewhat upon the question of malice, and should have gone to throw light on the spirit of the prosecutions. There was, however, no error in rejecting Cheever’s account of the facts themselves, as the question of malice does not depend upon those fads.
+Held, That testimony as to Josselyn’s information from his attorney as to the cause of McAllister’s discharge was receivable as bearing upon the spirit of the other arrest. The Court could not see any legitimate bearing which the instructions received by Josselyn from the company that employed him could liave on any of the issues in this case. Nor could it justify this arrest that Josselyn had been in the habit of procuring the arrest of others under similar circumstances.
+A question was raised below whether the charge was not- entirely vitiated by the Judge’s reading from a text book with a statement that he would afterwards insert it in his written charge. No specific objection was taken to this course, and the Court held it not ground on which a judgment would be reversed.
+The Court having charged the jury that an action for malicious prosocution would not lie until that suit was terminated, directed the jury not to consider any of the counts except for false imprisonment, but refused to charge that no action would lie for false imprisonment before the termination of the suit on which the arrest was had. Held, That in cases where arrests are made in civil actions, it is not necessary that the action for false imprisonment should be postponed until the termination of the other action ; that rule holds good in regard to criminal arrest.
+As the requests to charge were made in writing and not read to the jury unless granted, it is manifest that they cannot in any case have been misled by any refusal into mistaking the .ground of the refusal. If the plaintiff in error has hot been deprived by such refusal of any instruction he was entitled to, he has not been damnified. If his requests were wrong or given as clearly in the language of the Court as in his own, he has not been’ damnified. The Court charged that there could be no recovery if the defendant below when he made his affidavits had reasonable or probable cause to believe their statements were. made in good faith, and that there could be no recovery unless -he was actuated by feelings of malice and explained probable cause as a reasonable ground of suspicion, supported by circumstances sufficiently strong to warrant a cautious man in the belief that the party arrested is guilty of the offences with which ho is charged. And malice was defined as an act done wrongfully and without reasonable excuse, but the court charged that if defendant before proceeding, laid all the facts before his counsel and acted in good faith on the opinion of counsel, he was not liable. But if he misrepresented the case or did not act in good faith, or did not believe there was good cause to make the affidavit, he was liable; and it was for the jury to determine whether he acted in good faith and honestly believed the statements in his affidavits to be true.
+Held, That plaintiff in error had no causo to complain of any of these charges. The Court was also right in holding that not mere nominal damages could be recovered, where there’was an allegation and proof of spefcial damage. The jury may give general damages in such a case, to be determined by the circumstances.
+Judgment reversed with costs, and a new trial ordered.
