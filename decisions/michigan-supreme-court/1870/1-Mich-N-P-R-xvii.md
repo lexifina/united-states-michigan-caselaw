@@ -1,0 +1,27 @@
+---
+court: "Michigan Supreme Court"
+decided: "1870-01"
+citations: ["1 Mich. N.P. R. xvii"]
+reporter: "mich-np-r"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People ex rel. Julien S. Estabrook vs. The Commissioner of the State Land Office."]
+source_url: "https://static.case.law/mich-np-r/1/cases/xvii-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6052362
+---
+
+# People ex rel. Estabrook v. Commissioner of the State Land Office
+
+## Majority (Cooley, J.)
+
+Opinion by
+Cooley, J.
+This was an application for a writ of mandamus to compel the Commissioner to issue to the relator a patent for certain school lands in Midland county. The relator’s petition states that on July 3, 1867,' he applied at the State Land Office to purchase all of a certain section of school lands except one 40 acre lot, being in all 600 acres; that he was informed by one Nash, Chief Clerk and bookkeeper in the office, that said lands would be secured to him on the payment of $2 per acre; that he paid into said office the sum of $2 per acre, being $1,200, and which was half payment; that his name was written upon the plat of said lands in the tract book of the office in his presence, and that he was informed by Nash that this entry secured the lands to him, but that he could not procure a certificate or patent until the full amount of the purchase money was paid, as the lands were chiefly valuable for timber, and under a recent ruling of the State Board no certificates or patents were issued on lands of this character until after full payment of the purchase money; that he then stated he would pay the balance due whenever he should be called on, upon the shortest possible notice, but that he had not at the time sufficient funds with him to make lull payment; that he was infoimed that if anything further was required of him be would be notified, of the fact by the Commissioner, and that the lands could not be sold to any other person.
+At this time the Commissioner and his deputy were both absent from Lansing, and petitioner received .no communication from the office until February, 1868, when he went there to pay interest and taxes on these lands, or to pay for the same in full if necessary. He alleges the deputy then told him neither interest nor taxes were then clue; that he then told the deputy he was ready to pay in full, but as he did not intend to lumber on the land for one or two years, he should prefer to let the balance of the purchase money lay until then, but would pay on notice, and would give security if required; that the deputy told him he need not pay then, and that the land was marked to him on the books and no one could get an adverse claim. This conversation, however, was denied by the deputy.
+Petitioner further shows that, relying on the statements of Nash and the deputy, he did not insist on receiving a certificate or patent, or upon paying the purchase money, and that he received no communication from the oflice until the 13th orldth of October, 1868, when he received a letter from the deputy informing him that other parties liad filed an application for a portion of said lands, and that relator was only entitled to 300 acres, whereupon he went to Lansing, and in October, 1868, tendered to the Deputy Commissioner the balance of the purchase money, together with interest, which the deputy received, not admitting his right, but refused to issue a certificate, on the ground of a conflicting application; but the Commissioner allowed the relator to select the east half of said section, and to receive a certificate therefor, without waiving any right to the balance.
+The Commissioner sets forth in his answer that it is a rule .of his office, established in 1867, not to sell lands principally valuable for timber without full payment; that all his clerks are aware of this rule, and directed to enforce it; that whenever persons have applied to purchase lands, and made part payment -only, the Commissioner has adopted the practice to' allow them to select as much of the lands as their money would pay for, leaving the balance open to purchase by others; that in August, .1868, Arthur Hill applied at the office to buy this section of land, except what Estabrook was entitled to; that the lands are principally valuable for timber; that on examination of the records he found Estabrook's name entered in pencil on the plat of these lands, and that he had made half payment; that he at once notified Estabrook to select one-half the lands, which his money would pay for, and received payment from Hill for the balance in draft on New York.
+Held, that upon these facts Estabrook was not entitled to relief. The fair inference from all the statements is that Estabrook did not understand his arrangement with Nash to amount to a purchase, hut only an arrangement w hich would preclude any other person from buying, and that he was fairly chargeable with notice that a clerk in the office could have no right to make any such arrangement, by which,in effect, the State would be giving indefinite credit for its lands without interest.
+Held, further, that it was not a legal objection to Hill’s payment that it was made in draft on New York instead of currency, if the State officers saw fit to receive it.
+Mandamus denied, without costs.
+Campbell, C. J.7 dissented.
