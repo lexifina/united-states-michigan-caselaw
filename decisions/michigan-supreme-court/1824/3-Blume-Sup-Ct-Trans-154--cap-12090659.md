@@ -1,0 +1,20 @@
+---
+court: "Michigan Supreme Court"
+decided: "1824"
+citations: ["3 Blume Sup. Ct. Trans. 154"]
+reporter: "blume-sup-ct-trans"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JAMES FULTON versus SAMUEL S. PHELPS AND JONAS W. COLBURN"]
+source_url: "https://static.case.law/blume-sup-ct-trans/3/cases/0154-03.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12090659
+---
+
+# Fulton v. Phelps
+
+## Majority
+
+Journal Entries (1821—26): Journal3: (1) Appearance, motion for rule to plead *p. 173; (2) rule for special bail or procedendo *p. 222; (3) commissions to take depositions allowed, etc. *p. 242; (4) continued *p. 254; (5) continued *p. 338; (6) attendance of witness proved *p. 339; (7) attendance of witness proved *p. 339; (8) waiver of bail as to Colburn *p-415; (9) motion for procedendo overruled *p. 417; (10) jury impaneled *p. 417; (ix) witnesses sworn *p. 418; (12) motion to read deposition overruled *p. 419; (13) motion to read deposition overruled *p. 419; (14) witness sworn *p. 420; (15) juror failing to answer, jury discharged *p. 421; (16-18) attendance of witnesses proved *p. 421; (19) motion for rule on witnesses to show cause against attachment, motion for bail or procedendo *p. 489; (20) jury impaneled, witnesses sworn *p. 489; (21) motions to read depositions overruled, witnesses sworn *p. 490; (22) witness held competent, sworn *p. 491; (23) evidence and argument heard *p. 492; (24) verdict, motion for new trial *p. 494; (25) attendance of witnesses proved *p. 495. Journal 4: (26) Motion for new trial overruled MS p. 5; (27) motion in arrest of judgment MS p. 5; (28) continued MS p. 94; (29) motion in arrest of judgment overruled MS p. 117; (30) judgment for costs MS p. 121.
+Papers in File: (i) Precipe for habeas corpus cum causa; (2) precipe for habeas corpus cum causa; (3) recognizance of bail; (4) writ of habeas corpus; (5) transcript of county court record; (6-8) notice of taking deposition; (9) deposition of Lorin Hodge; (10) precipe for subpoena; (11) subpoena; (12) declaration and plea of non assumpsit; (13) precipe for subpoena; (14) recognizance of bail and bail piece; (15) precipe for commission to take deposition; (16) interrogatories for Roderick Keyes; (17) deposition of Roderick Keyes and commission to take deposition; (18) precipe for subpoena; (19-20) subpoenas; (21) bill of particulars; (22) precipe for subpoena; (23) subpoena; (24) precipe for subpoena; (25-26) subpoenas; (27) affidavit for a continuance; (28) deposition of Samuel Wilkeson; (29) deposition envelope; (30) precipe for subpoena; (31) subpoena; (32) stipulation re taking depositions, etc.; (33) precipe for subpoena; (34) subpoena; (35) deposition of Rix Robinson; (36-37) deposition envelopes; (38) precipe for subpoena; (39) subpoena; (40-41) prec-ipes for subpoenas; (42-43) subpoenas; (44) precipe for subpoena; (45-48) subpoenas; (49) waiver of bail; (50) subpoena; (51) precipe for subpoena; (52) subpoena; (53) deposition of Charles Larned; (54) interrogatories for Col. Larned; (55) deposition of Michael Dousman; (56) deposition of Joseph Gooley; (57) deposition of Adam D. Stewart; (58) deposition of Samuel Wilkeson; (59) deposition of Samuel A. Bigelow; (60) deposition envelope; (61) precipe for subpoena; (62) subpoena; (63) precipe for subpoena; (64) subpoena; (65) precipe for subpoena; (66) subpoena; (67) precipe for subpoena; (68-71) subpoenas; (72) precipe for subpoena; (73) copy of motion for rule on witnesses to show cause against attachment; (74) motion for bail or procedendo; (75) precipe for subpoena; (76) verdict; (77) reasons for new trial; (78) affidavit of David McKinstry; (79) affidavit of James Fulton; (80) affidavit of John M. Wilson; (81) motion in arrest of judgment; (82) reasons in arrest of judgment; (83) precipe for execution fi. fa.; (84) writ of fi. fa.; (85) precipe for execution ca. sa.; (86) writ of ca. sa.; (87) sheriff’s receipt for ca. sa.; (88) memo, of amount due on note; (89) letter from Phelps to Colburn.
+Office Docket, MS p. in, c. 10. (Case 62 of 1820)
