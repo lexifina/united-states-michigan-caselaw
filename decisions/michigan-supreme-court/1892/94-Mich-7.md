@@ -1,0 +1,34 @@
+---
+court: "Michigan Supreme Court"
+decided: "1892-12-03"
+citations: ["94 Mich. 7"]
+reporter: "mich"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["The other Justices concurred."]
+parties: ["William Boehmer v. The Detroit Free Press Company."]
+source_url: "https://static.case.law/mich/94/cases/0007-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1487519
+cites_cases: ["2 Colo. 605", "44 N. Y. Super. Ct. 66", "83 Mich. 661"]
+---
+
+# Boehmer v. Detroit Free Press Co.
+
+## Majority (McGrath, C. J.)
+
+McGrath, C. J.
+Case for libel. Plaintiff appeals-from a judgment on demurrer.
+The declaration sets forth that since May 1, 1891, plaintiff was and is highway commissioner of the township of Hamtramck, in the county of Wayne; that on May 7, 1891, plaintiff, acting with the supervisor, township clerk, and one of the justices of the peace of said township, and composing the township board of said township, granted a franchise to Henry Plass and others to construct and operate a certain railway along the highway known as “ Gratiot Eoad ” or “ Gratiot Avenue,” in said township; that on June 13, 1891, a portion of the said township, including a portion of said Gratiot avenue, upon which said railway was to be operated, was annexed to the city of Detroit; that on the 13th day of December, 1891, the defendant falsely, wickedly, and maliciously printed, uttered, published, and circulated of and concerning the plaintiff a certain false, wicked, and defamatory libel, in the words and figures following, viz.:
+“f The Gratiot Avenue Franchise [meaning said franchise].
+“ ‘ It [meaning said franchise] was carefully dissected at a meeting yesterday morning.
+“ ‘ The Gratiot avenue street-car franchise [meaning said franchise] was considered yesterday morning by the committee on streets and ordinances, the board of public works, and city attorney, at a meeting held in the mayor’s office. Edwin F. Conely appeared for the railway company, and argued that the city could not alter the contract entered into by the projectors of the road with the township of Hamtramck without the consent of the promoters. He claimed that the franchise was a valid one, and that the city had no control over it, except so far as the general police supervision of the street on which it is proposed to build the line is concerned. It mattered not if the contract contained no restrictions as to the time it was in operation. He said that he would immediately move to .have the injunction dissolved.
+s< ‘ City Attorney Casgrain said that he had made a carefful examination of the franchise, and was of the opinion that it had been legally granted, although it was bad in effect.
+“f Commissioner McVicar scored the township board of Hamtramck for granting the franchise under the circumstances they had. . There had been no official notification, he said, given to the board of the existence of the charter. The transaction [meaning the granting of said franchise by said plaintiff and said other persons who acted with him in granting it] appeared to him to be very suspicious, and he was of the opinion boodle [meaning money corruptly paid to and received by a public officer as a bribe] had been used [meaning had been paid by the persons to whom said franchise had been granted to the officers who had granted the same] in the same [thereby imputing and meaning that the plaintiff and the said other officers who acted with him in granting said franchise had corruptly and feloniously accepted and received money for the granting of said franchise, and thereby imputing and meaning that the plaintiff had been guilty of a felony under the provisions of section 9242 of Howell’s Annotated Statutes -of Michigan].’
+“And the said plaintiff further avers that in the same newspaper and in the same newspaper article in which the foregoing false, scandalous, and defamatory language was contained and published as hereinbefore recited, said defendant further uttered and published of and concerning the said plaintiff the following language, viz.:
+“f The franchise [meaning said franchise] is signed by Supervisor Roger Echlin, Richard Giff, Jr., justice of the peace, Columbus Burnett, township clerk, and ¥m. Boehmer [meaning said plaintiff], highway commissioner.’ ”
+The declaration alleges that the defendant falsely, maliciously, and wickedly printed, uttered, and published of and concerning the plaintiff a certain false, wicked, and defamatory libel in the words and figures set forth. The declaration does not aver that the language complained of was simply repeated by the defendant, and, in view of the averments, we cannot assume that to be the fact. The publication purports to be a report of what was said at the meeting of the committee on streets, but we cannot assume that such was the fact, or, if simply a report, that it was a correct report. The facts, therefore, upon which the claim of privilege is based do not appear.
+The word “boodle” is defined as “money fraudulently obtained in public service; .especially, money given to or received by officials in bribery, or gained by collusive contracts, appointments, etc.; by extension, gain from public cheating of any kind; often used attributivelv.” See Cent. Diet. In these times, when it is charged that a franchise has been procured by the use of “ boodle,” there can be but one inference, viz., that the persons granting the franchise were, as officials, bribed by money to make tbe grant Bribery was an indictable offense at common law, and has been made a felony by statute. The language used is' susceptible to the inference that “boodle” was the operating-force in the procurement of the franchise.
+The publication alleges that the franchise was signed by the supervisor, the justice, the township clerk, and plaintiff as highway commissioner. . The publication does not allege that improper inducements were resorted to with any one of the persons named, but generally that “ boodle ” was used. In Welch v. Tribune Publishing Co., 83 Mich. 661, it was held that an individual juror had a right of action upon a charge that the jury had perjured themselves. Byers v. Martin, 2 Colo. 605; Robertson v. Bennett, 44 N. Y. Super. Ct. 66. The publication charges the township board with granting the franchise, but plaintiff was not a member of the township board. He appears to have joined in the grant. The publication afterwards refers to the transaction as suspicious, and to the opinion that “boodle” had been used in obtaining the same. It is for the jury to say whether, from the whole of the article,, the language used applied to plaintiff as well as to the township board.
+The declaration is good, and the judgment must be set aside, with costs to plaintiff. Defendant will have 20 days within which to plead.
+The other Justices concurred.
