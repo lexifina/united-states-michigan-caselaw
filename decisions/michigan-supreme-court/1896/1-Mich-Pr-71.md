@@ -1,0 +1,30 @@
+---
+court: "Michigan Supreme Court"
+decided: "1896-10"
+citations: ["1 Mich. Pr. 71"]
+reporter: "mich-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Henry G. Dozer v. William N. Cross, Clerk, Samuel R. Tucker, Chairman, and the Roard of Supervisors of Cheboygan County."]
+source_url: "https://static.case.law/mich-pr/1/cases/0071-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2242567
+cites_cases: ["1 Doug. 302", "13 Mich. 44", "24 Mich. 458", "40 Mich. 589", "5 Mich. 223", "51 Mich. 184"]
+---
+
+# Dozer v. Cross
+
+## Majority
+
+The facts as shown by the petition and answer were:
+a — That in November, 1890, relator was elected to the office of prosecuting attorney of Cheboygan county, the duties of which he discharged during the term for which he was elected.
+b — That at their annual session in October, 1890, the board of supervisors of Cheboygan county fixed the salary- of prosecuting attorney at the sum of $600 a year.
+c — That for a number of years last past it has been the custom and practice in said county for the county clerk at the close of each quarter to draw and sign orders on the county treasurer for $ 150 in payment of the salary of the prosecuting attorney for such quarter.
+d — That since January 1, 1891, the respondent Cross lias been clerk of Cheboygan county. . . .
+«--That relator in the spring of 1893, as alleged in his petition, by reason of ill health caused by overwork as prosecuting attorney, was obliged to discontinue all work, and on or about April 5, 1892, left for the South, where he remained for a time; that his health having improved he returned to the county of Cheboygan, and on May 28, 1892, resumed the entire business of his office; that while ill and unable to leave his house, and before leaving for the South, one C. S. Reilly, an attorney of said county, appeared for the people in a justice court criminal case, for which services lie charged the county $11.95; that relator, about April 1,1892, agreed with John F. Chambers, an attorney of said county, that he should attend to [such of the business pertaining to relator’s said office as could not be postponed until relator’s return for the compensation of $25 per month, a bill for which said attorney should present to the board of supervisors of said county for allowance; that during relator's absence he gave his said official business his personal attention and counsel by correspondence, and furnished the required affidavits and procured the continuance of all important cases ponding in court, and belonging to said business.
+[Respondents in their answer say that they have no personal knowledge as to the reasons which impelled relator to leave the county of Cheboygan in the spring of 1892, nor as to what, if any, arrangement he made with Attorney Chambers to fill his place as prosecuting attorney, nor how or by what means Attorney Reilly performed some of relator’s official duties, but they claim as matter of law that such reasons are immaterial; that if relator became unable or incapacitated to perform his official duties so that such duties had to be performed by others at the expense of the county, relator could not legally or equitably claim his stipulated compensation during such period of inability. Editor.]
+[Respondents in their answer charge that said bills were allowed at the earnest request of relator, and under his advice and sanction as legal adviser of said board of supervisors; that both of said bills were made out and presented to said board at the special instance and request and under the directions of relator; that they were for services for which the county was in no way liable, and were allowed only because relator requested and advised their allowance. Editor.]
+/ — That the board of supervisors of Cheboygan county at their annual meeting in October, 1892, allowed the bill of Attorney Reilly; also a bill in favor of Attorney Chambers for $90 for services rendered by virtue of his agreement with relator, subject to the proviso that the amount of said bills should be deducted from the salary of relator.
+<7 — That relator made repeated demands upon the respondents Cross and Tucker to draw, sign, and deliver to him their order on the county treasurer for said $150 back salary, all of which demands were refused; that finally and on January 6,1893, relator called the attention of said board of supervisors to the negleet of said clerk and chairman to draw and sign said order, and requested said board to authorize and instruct said officers to comply with relator’s request; that said board refused to take any action in the premises; that on June 22, 1896, relator again challenged by a written communication the attention of said board to said matter, and requested them to cause said order to be drawn and signed; that said board refused to take any action on said communication, or to allow said bill, but laid the same on the table indefinitely.
+[Respondents in their answer claim that the board of supervisors in 1896 had no legal authority to pass upon relator’s claim, inasmuch as the whole matter had been before the board in 1892 and 1893, and duly passed upon by said board.]
+hr — Respondents in their answer set up as affirmative matter of defense the allowance to relator upon certain accounts by him presented to the board of supervisors for services rendered by him as prosecuting attorney, the performance of which in the main legally devolved upon him by virtue of his office, aggregating $1,096.66, the sum of $386.06, and averred that said sum, as also the sums paid to Attorneys Reilly and Chambers, should be held chargeable against relator, and if thus applied would largely overpay his unpaid salary; that these are matters which cannot properly be passed upon and adjudicated on relator’s petition, but should be left for adjudication in a suit at law. Respondents added to their answer a general demurrer to relator’s petition.
