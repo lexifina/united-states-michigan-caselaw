@@ -1,0 +1,20 @@
+---
+court: "Michigan Supreme Court"
+decided: "1836"
+citations: ["5 Blume Sup. Ct. Trans. 62"]
+reporter: "blume-sup-ct-trans"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ROBERT STEAD, administrator,etc., of BENJAMIN STEAD, deceased, versus WILLIAM W. PETIT."]
+source_url: "https://static.case.law/blume-sup-ct-trans/5/cases/0062-03.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12075501
+---
+
+# Stead v. Petit
+
+## Majority
+
+Journal Entries (1825): Journal 4: (1) Motion to quash writ of ne exeat overruled *p. 72.
+Papers in File: (i) Bill of complaint and affidavit for ne exeat, allocatur; (2) writ of ne exeat and return; (3) precipe for writ of subpoena, appearance; (4) motion to quash writ of ne exeat.
+Chancery Case 36 of 1823.
