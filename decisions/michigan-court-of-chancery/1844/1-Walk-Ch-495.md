@@ -1,0 +1,24 @@
+---
+court: "Michigan Court of Chancery"
+decided: "1844-11"
+citations: ["1 Walk. Ch. 495"]
+reporter: "walk-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Elisha Beach and Charles Williams v. Jonathan R. White, Louisa D. White and Phineas White."]
+source_url: "https://static.case.law/walk-ch/1/cases/0495-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 227186
+cites_cases: ["11 Mass. R. 421"]
+---
+
+# Beach v. White
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+The bill cannot be sustained as to the equitable assets, or dioses in action, belonging to J. R. White, the judgment debtor;- — the execution having been returned before the return day. Smith v. Thompson, ante 1. But it may be sustained as to the conveyances charged to be fraudulent against his creditors. For this purpose, it is only necessary to show an execution has been issued. Williams v. Hubbard, ante 28.
+Beach, the assignor of the judgment, is not a necessary party. Had he not united with his assignee in filing the bill, or otherwise been made a party, the bill, on that account, would not have been demurrable. Morey v. Forsyth, ante 465. The assignor of a judgment was formerly considered a necessary party to a bill filed by his assignee; Cathcart v. Lewis, 1 Ves. 11. 463; and will still be so considered by the Court, where there is a controversy between the assignor and assignee relative to the assignment, making it necessary for him to be a party for the protection of defendant. Id. While, therefore, the assignor is not, in all cases, a necessary party, no objection can be taken to his being made a party.
+The conveyance of the 160 acre lot, and a quarter of the mill property, on October 24th, 1832, by J. R. White and his wife, to P. White, and the reconveyance thereof to the wife of J. R. White, on the seventh of November following, were intended to answer all the purposes of a settlement .of the property on the wife. As a settlement, it was fraudulent and void against creditors; because it was after marriage, not in pursuance of any antenuptial contract, without consideration, and at a time when J. R. White was indebted to a much larger amount than he was able to pay. The money with which the land was purchased belonged to Louisa D. previous to her marriage; but, on the happening of that event, it became the property of her husband by virtue of his marital rights, no settlement, or agreement for a settlement of it, on her, having been made before the marriage. She says there was no agreement in writing, or contract between her and her husband, relative to the control or use of the money, previous to the marriage, or subsequent. All postnuptial voluntary settlements are not necessarily void as to creditors. They are good, when made without any fraudulent intent, and by a person not indebted at the time, or, if indebted, whose debts are so small in amount, when taken in connection with the means still retained by him to pay them, as to repel all presumption of fraud on their account.
+The debt to Beach accrued long after the conveyances; but they are, nevertheless, fraudulent and void as to him and his assignee. Where a settlement is fraudulent against existing creditors, it is also as to subsequent creditors. Richardson v. Smallwood, Jac. R. 552. The justice of this rule is clearly exemplified in the present case. After Beach had obtained a verdict, but before judgment, J. R, White conveyed all his property to P. White, in payment of a debt of $5,000. This conveyance, being made in payment of a bona fide debt, and no suspicious circumstances attaching to it, is good against the grantor’s creditors. But more than one half of this debt was for money paid by P. White, for his brother, to different individuals to whom J. R. White was indebted prior to the year 1832. So that, had this part of the debt to P. White been paid out of the property conveyed to Louisa D., something would have been left to pay the Beach judgment.
+A decree must be entered declaring the deed of October 24th, 1832, from J. R. White and wife to P. White, — so far as it relates to the 160 acre lot, and the undivided quarter of the mill property, — and the deed of the seventh November following, from P. White to Louisa D., fraudulent and void against the judgment mentioned in the pleadings, and against the complainants, and all other persons who may hereafter claim title to the premises through or under the judgment; and complainants are to be at liberty to sue out a new execution at law, and to sell so much of the property as is necessary to pay the judgment, and to recover their taxable costs in the suit against J. R. White. The bill to be dismissed, without costs, as to the defendant P. White.
