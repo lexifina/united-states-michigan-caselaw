@@ -1,7 +1,7 @@
 ---
 court: "Wayne Circuit Court"
 decided: "1868-10-15"
-citations: ["1 Howell N.P. 61", "1 Howell N.P. 60"]
+citations: ["1 Howell N.P. 61"]
 reporter: "howell-np"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
