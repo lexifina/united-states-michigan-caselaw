@@ -1,0 +1,32 @@
+---
+court: "Michigan Supreme Court"
+decided: "1859-07-15"
+citations: ["7 Mich. 79"]
+reporter: "mich"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Martin Ch. J. and Manning J. concurred. Campbell J. did not sit, being interested."]
+parties: ["Joseph A. Fowler v. The Detroit and Milwaukee Railway Company."]
+source_url: "https://static.case.law/mich/7/cases/0079-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1925516
+---
+
+# Fowler v. Detroit & Milwaukee Railway Co.
+
+## Majority (Chbistiancy J. :)
+
+Chbistiancy J. :
+The summons issued by the justice in this case was served on the railroad company by reading and delivering a copy of the same to Thompson, who was the conductor of a passenger train. The service is admitted to have been sufficient under the act of March 28th, 1849 (Comp. L. §4846), if that act is still in force as to justices’ courts. But it is contended that this act, so far as relates to these courts, 'has been repealed by § 49 of the act of Feb. 18, 1855 (Comp. L. §3701), entitled “Of Courts held by Justices of the Peace”; which provides that “the first process against a corporation shall be a summons, and shall be served by ¡leaving a copy thereof with the president, cashier, or secretary, or other principal officer of such company, or by leaving f such copy at the banking house or office of such corporation.”
+The introductory section of this act enacts, “That¡chapter 93 of the Revised Statutes of eighteen hundred and forty-six be and the same is hereby amended so as to read as follows: Chapter xcm.” Then follows the act by sections, beginning with section one and ending with section 269.
+_ It is evident, then, that this act was intended to take the place of chapter 93 of the Revised Statutes of 1846, and must be read as constituting that chapter of that revision.
+By reference to section 134, of this chapter 93, as it stood before amended, it will be found that the provision for commencing suits and serving process against corporations was, so far as the present question is concerned, identical in effect with that contained in section forty-nine of the act of 1855, above cited ; and that no service could have been made upon a conductor, but only upon the “president, cashier, secretary, or other principal officer, or by leaving an attested copy at the banking house, counting' room, or office of such corporation, or at the last and usual place of abode of such president, cashier or. other principal officer.”
+But, as for obvious reasons, this was not considered an adequate provision for the commencement of suits against railroad corporations, a large part of whose business must be done at a great distance from the office of the company, and the principal officers might be at a great distance, or out of the state; the legislature by the act of March 28th, 1849, enacted, “That whenever in any suit or proceeding, either in law or equity,¿it should become necessary to serve any process, notice, or writing upon any railroad company in this state, it shall ¿be sufficient to serve the same upon any conductor of a freight or passenger train of cars,” &c.
+This was passedAas a separate and independent act. It was clearly intended to be general in its operation, and applicable to all courts in the state. Consequently this act and the provisions of section 134 of chapter 93 of the Revised Statutes of 1846, were both in full operation at the same time — section 134, applying to corporations generally, and the act of 1849 to railroad corporations in particular. And construing the act of 1855, in reference to justice’s courts, as merely amending, and taking- the place of, chapter 93 ol the Revised Statutes of 1846, we think the act of 1849 should be construed as bearing the same relation to the act of 1855, as it previously sustained to chapter 93 of the Revision of 1846 ; that both are in full force, and applicable to justices’ courts. The summons was therefore properly served, and the circuit court erred in reversing the judgment of the justice.
+But it is claimed by defendant in error that as this court can not, on writ of error, review a judgment upon the facts, while the court below was authorized to do so, this court can not reverse the judgment of the cii’cuit court, because, as he contends, the error assigned in the circuit court covered both questions of fact and of law. and this court can not ascertain, from the record, whether the circuit court reversed the judgment for errors in law, or upoix the facts and merits.
+We give no opinion whether this objection would be good if the assignment of errors were as supposed by the objection, because no such assignment of errors was made.
+There was xxot, strictly speaking, any assignment of errors in the case. By § 3869 of Gomp. Laws, the party bringing the certiorari is required to make “an affidavit setting forth the substance of the testimony and ¡proceeding's, and the grounds upon which an allegation of error is founded.” There was no assignment of errors except what is contained in the affidavit. No specific or intelligible objection is stated to the judgment upon the facts or merits, nor any point of objection indicated to any of the proceedings, except the decision of the justice upon the service of the summons.
+The objection that the judgment should have been in favor of one party rather than the other, is not, we think, sufficient to raise any question upon the merits, except, perhaps, where it should be found that there was no evidence in support of the judgment. We think the object of the statute is to require such a statement of the grounds of the allegation of error, as will inform the court and the opposite party of the nature of .the questions intended to be raised. But this general allegation gives no such information, as to any questions upon the merits, and must be understood to refer here only to the decision of the justice upon the matter of law, if any effect whatever is to be given to it.
+We think, therefore, in this’case, there was no question before the circuit court relating to the merits, and them reversal of the justice’s judgment must be understood to have been upon the question of law only.
+The judgment off the circuit court must be reversed, and the judgment of the justice affirmed, with costs to the plaintiff in error in the circuit and in this court.
+Martin Ch. J. and Manning J. concurred. Campbell J. did not sit, being interested.
