@@ -1,7 +1,8 @@
 ---
 court: "Alpena County Circuit Court"
 decided: "1869-10"
-citations: ["1 Mich. N.P. R. 23", "1 Mich. N.P. R. 25"]
+decided_precision: "month"
+citations: ["1 Mich. N.P. R. 23"]
 reporter: "mich-np-r"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
