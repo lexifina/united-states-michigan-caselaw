@@ -1,0 +1,22 @@
+---
+court: "Michigan Court of Chancery"
+decided: "1844-03"
+citations: ["1 Walk. Ch. 394"]
+reporter: "walk-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Samuel Barstow v. Hiram Smith and Hannah his wife, Arza Lewis and Mart his wife, and Elisha Thornton and Aurilla K. his wife."]
+source_url: "https://static.case.law/walk-ch/1/cases/0394-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 227150
+---
+
+# Barstow v. Smith
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+To bar the wife’s right of dower, the revised statutes required she should acknowledge, apart from her husband, that she executed the deed without any fear or compulsion of her husband. R. S. p. 263, § 7. This was done in the present case, and it is insisted the fourth section of the act of 1840, although its phraseology differs somewhat from the revised statutes, was not intended to change the long and well established rule of law on this subject. The Court must judge of the intent of the legislature from the language used to express that intent; and where the language is clear and explicit, and susceptible of but one meaning, and there is nothing incongruous in the act, the Court is bound to suppose the legislature intended what their language imports. The act of 1840 requires a feme covert to acknowledge, on a private examination, separate and apart from her husband, that she executed the deed without fear or compulsion from any one; not without fear or compulsion of her husband, but from any one,: — her husband, or any other person. It supposes she might be impelled, through fear or compulsion of some one else than her husband, to execute a deed parting with her rights. There is nothing improbable in such a supposition. If a husband can be guilty of such cruelty towards one whom he is bound to cherish and protect, it is not difficult for the mind to conceive a relative of the wife, or a stranger, in a situation to operate upon her timidity, and to influence her acts by terror or fear, which the law guards against as well as force. It is immaterial from what quarter it proceeds, whether from her husband or a third person, if she is driven by it to do what she otherwise would not have done. Something of this kind must have led to the new enactment, and the difference in the phraseology of the two laws. The fourth section of the act of 1840, was a work of supererogation, on the part of the legislature, if there was no intention at the time to change the then existing law. I am, therefore, although it may affect many titles, constrained to declare that the justice’s certificate is not evidence, either at law or in this Court, of such an acknowledgment by the defendants Hannah, Mary, and Aurilla K. of the execution of the mortgage by them, as the act of 1840 requires to bar their right of dower in the mortgaged premises, should .they survive their husbands.
+Whether the Court could give relief in such a case, if the defective certificate were the result of accident, or mistake in the justice, in not propounding the proper question, or in drawing up the certificate, it is not my intention at this time to decide. To enable complainant to bring this question before the Court, if he should think proper to do so, I shall allow the demurrer as to the defendants Hannah, Mary,' and Aurilla K., with leave to complainant to amend his bill; and overrule it as to the other defendants. Neither party to have costs.
+A demurrer may be good as to one defendant, and bad as to other defendants. Coop. Eq. PI. 113; 8 Ves. R. 403, 404. The rule that it cannot be good in part and bad in part, and therefore is bad as to the whole, applies to different parts of the bill covered by the demurrer, and not to different defendants who have united in the demurrer, as to one or more of whom it may be good, and bad as to others. It is a good ground of demurrer to the whole bill that one of complainants has no interest in the suit, and has improperly joined with others in filing the bill; 3 Paige R. 336; 4 Russ. R. 225; but there is no such rule in regard to defendants. These remarks are made in answer to what was said on the argument, that the demurrer, if good for a part of the defendants, must be allowed as to all of them.
+Demurrer allowed as to defendants Hannah, Mary, and Aurilla K., but without costs, and overruled as to other defendants.
