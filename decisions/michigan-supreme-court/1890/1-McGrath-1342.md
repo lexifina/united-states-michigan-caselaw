@@ -1,7 +1,7 @@
 ---
 court: "Michigan Supreme Court"
 decided: "1890-10-10"
-citations: ["1 McGrath 1342", "82 M., 435", "82 M., 440"]
+citations: ["1 McGrath 1342", "82 M., 435"]
 reporter: "mcgrath"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
