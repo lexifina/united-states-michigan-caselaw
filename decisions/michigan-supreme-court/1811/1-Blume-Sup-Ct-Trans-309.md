@@ -1,7 +1,8 @@
 ---
 court: "Michigan Supreme Court"
 decided: "1811"
-citations: ["1 Blume Sup. Ct. Trans. 309", "1 Blume Sup. Ct. Trans. 262"]
+decided_precision: "year"
+citations: ["1 Blume Sup. Ct. Trans. 309"]
 reporter: "blume-sup-ct-trans"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
