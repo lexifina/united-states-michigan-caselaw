@@ -2,7 +2,7 @@
 court: "Michigan Supreme Court"
 docket: "101"
 decided: "1828-02-25"
-citations: ["5 Blume Sup. Ct. Trans. 506", "5 Blume Sup. Ct. Trans. 508"]
+citations: ["5 Blume Sup. Ct. Trans. 506"]
 reporter: "blume-sup-ct-trans"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
