@@ -2,7 +2,7 @@
 court: "Michigan Supreme Court"
 docket: "Y. 23"
 decided: "1829-02-19"
-citations: ["5 Blume Sup. Ct. Trans. 535", "5 Blume Sup. Ct. Trans. 536"]
+citations: ["5 Blume Sup. Ct. Trans. 535"]
 reporter: "blume-sup-ct-trans"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
