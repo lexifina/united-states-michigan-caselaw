@@ -1,0 +1,19 @@
+---
+court: "Michigan Supreme Court"
+decided: "1824"
+citations: ["3 Blume Sup. Ct. Trans. 357", "3 Blume Sup. Ct. Trans. 301"]
+reporter: "blume-sup-ct-trans"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THOMAS EMERSON versus GABRIEL GODFROY"]
+source_url: "https://static.case.law/blume-sup-ct-trans/3/cases/0357-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12106410
+---
+
+# Emerson v. Godfroy
+
+## Majority
+
+Papers in File (1824-25): (1) Precipe to enter amicable suit; (2) recognizance; (3) bail piece; (4) stipulation extending time to plead; (5) discontinuance.
+1824-36 Calendar, MS p. 51.
