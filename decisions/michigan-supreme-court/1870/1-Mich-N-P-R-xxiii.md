@@ -1,0 +1,34 @@
+---
+court: "Michigan Supreme Court"
+decided: "1870-04"
+citations: ["1 Mich. N.P. R. xxiii"]
+reporter: "mich-np-r"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Fisher vs. The People."]
+source_url: "https://static.case.law/mich-np-r/1/cases/xxiii-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6050647
+cites_cases: ["15 Mich., 408", "6 Humph. 330"]
+---
+
+# Fisher v. People
+
+## Majority (Christiancy J.)
+
+Opinion by
+Christiancy J.
+The defendant was convicted of stealing a heifer, the property of A. B. Dorrance. The first error assigned is that the Court refused to' charge as specially requested, “ that-il the jury entertain a reasonable doubt as to whether the heifer in question was the property of A. B. Dorrance or Mary Dorrance, then the jury must give the benefit of the doubt to the respondent and acquit.”
+There was some evidence in the case tending to make it doubtful whether the heifer belonged to A. B. or Mary Dorrance, and also some tending to show that it might belong to the respondent On the argument of the case in the Supreme Court, counsel for. the respondent took the ground that the doubt was whether the heifer did not belong to the respondent. The Court, however, is of the opinion that, from parts of the charge, it seemed that respondent must upon the trial have rested bis defense upon the ground that the animal belonged to Mary Dorrance; and this conclusion seems warranted from the fact that the judge used this language in his charge to the jury: “ It ie claimed by the respondent that the daughter of the alleged owner of the heifer in controversy was the sole, absolute owner, and that her father, A. B. Dorrance, had no title, or not such a title as supports the allegations in the information of ownership.” It is not likely that this statement as apart of the charge would have been allowed to pass without exception, if untrue in fact; and • it may therefore be safely relied upon as a true statement of what the defendant claimed on the trial.
+Held, That upon this interpretation (and we are inclined to think upon either interpretation suggested) of the matter, the charge of the Court fairly left to the jury the question intended to be raised.
+Since, as well as before, the act of 1869 (Sess. L.,vol. 1 ,p. 113), however correct and specific a request to charge may be, its refusal will not be error, if the judge in the written charge actually given, fairly leaves to the jury the question substantially raised by the request.
+The jury will always better understand a charge, given as one connected whole, than if the same matter were broken up into separate and detached portions, which are more likely to confuse than enlighten. The first assignment of error, therefore is not well taken.
+The second assignment is that the Court erred in refusing to charge “ that, if the jury find that Jasper and Byron Francisco took the heifer from the actual or constructive possession of the owner, and impounded it in their own field, and after-wards delivered it to the defendant, then that taking of the animal from the possession of the Franciscos’ with their consent, would not be larceny, as there would be no trespass in sucb .taking.”
+Held, That it appeared from the record that the supposed, facts are assumed without any evidence in the case fairly tending to prove them. The request assumes a stat6 of facts which no evidence in the case tended to prove, which the jury could not have found from the evidence, and which it would have, been wrong in the Court to assume they could have found. The evidence tended to show that the respondent and the two Franciscos’ stole the animal together.
+So far as appeared from the record, Dorrance might have maintained trespass for killing or taking the heifer by any thirl person, at the time it was taken by the respondent and the Franciscos’. 1 Chitty’s Pl. 194 to 196; 6 Humph. 330; 2 Bish.Cr. Pr., Sec. 688 n. 4.
+Two of the witnesses testified that they had on a former trial of the case falsely testified in respondent’s favor, influenced, aa they now testified, by threats of the respondent, that if they testified against him, they should not leave the court room alive. In relation to this evidence, the Court charged the jury as follows:
+“ While it is not the business of the Court to comment ob the testimony, yet, in view of the peculiarity of some of it, I feel it to be my duty to say to you, that while it is true that when it is manifest to a jury that a witness has wilfully sworn false, touching any of the material facts involved in the case, the testimony of such witness is not, unsupported by other proof, to be considered worthy of belief; yet it is for you, from all the circumstances in the case, to say whether, if the witness has sworn falsely, there was any reason, justification or excuse for committing perjury. For myself, I can conceive of no possible excuse for perjury in any ease. You must, however, look at the matter in view of all the circumstances — in view of the known frailty of human nature, unaided and unregenerated by the power of Him whóis the source of truth, and say, uponyoar oaths, what, and how much of the testimony you believe to be true.’’
+This charge was excepted to, and is assigned as error. The objection is not that it was in violation of the act of 1869, ia reference to charging juries. Nor do we perceive that it is objectionable on this ground. This portion of the charge, when fairly construed, is nothing more, in substance, than an announcement of the rule laid down in 15 Mich., 408, that the credibility of a witness, under such circumstances is exclusively a question for the jury.
+It is urged that the Circuit Judge gave the jury fo und®stand that there might be some justification or excuse for perjury. But this can be hardly fairly said, when he tells them in the same breath with the language complained of, that for himself he can conceive of no excuse for committing perjury, and finally that they must, look at the matter, in view oí all the circumstances, and say, upon their oaths, what, and how much of the testimony they believe to be true. We think the charge in this respect was entirely fair, and if calculated to mislead in any way, it was in favor of the respondent.
+It was further partly objected that, if the Court referred to the testimony given on the former trial, then error was committed in assuming that the witnesses committed perjury on the former trial instead of on the second. Held, however, that the charge must be understood with reference to the evidence given, and, when so understood, could not mislead. The Court assumed nothing, but expressly told the jury that the whole question .of the credibility of the witnesses was entirely for them.
+Proceedings of the Court below affirmed.
