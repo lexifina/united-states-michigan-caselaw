@@ -1,0 +1,30 @@
+---
+court: "Michigan Supreme Court"
+decided: "1831"
+citations: ["5 Blume Sup. Ct. Trans. 545"]
+reporter: "blume-sup-ct-trans"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Woodbridge vs Cooke."]
+source_url: "https://static.case.law/blume-sup-ct-trans/5/cases/0545-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12106976
+---
+
+# Woodbridge v. Cooke
+
+## Majority
+
+John Cooke ats \ William Woodbridge)
+Error. Cert to Judgement before Justice Court
+Cooke brought suit before the Justice, by summons on the day of returnable on the day of same month.
+Judgement was [....] Default for Plaintiff, and this suit is brought to reverse [....] [Judgement. It is understood the Defendant relies on his privilege as judge of the Supreme Court, and his necessity of absence on duty in that capacity.—
+i8t His privilege, if there be any as Judge;— it is limited by the nature of a Judge’s duties. It will not be pretended that a judge is exempt from judicial process, under all circumstances.— This process of summons was issued and served on the plaintiff in Error, in vacation and at a time when he had no duties to perform, and was not in the performance of any. The matter assigned for Error is that he would be in the performance of judicial duty on the return day. See Com. Dig. tit. privilege.
+2d The effect of the privilege whatever the privilege may be cannot be deemed as making void the process or the proceedings irregular [....] most the process was voidable, and to set it aside the p[. .. .] should have been pleaded. The default waived all irregularity, and the subsequent proceedings to Judgement are valid, not withstanding the plea of privilege if pleaded in time, might have set aside the process.
+The following considerations shew that the effect of the privilege in favour of the Judge, whatever the privilege may be, is not to make void the process.
+Ist The privilege is personal, and cannot be given in Evidence under the general issue. Infancy may in Assumpsit, because the contract is void, and in assumpsit, every thing which shews the defendant is not indebted, in assumpsit may be given in evidence under the general issue. 3 Dane p 459. Art 2d and authorities there cited, 6 Dane p 132 Art 8 Sect 2.— Ist Chittys Pleadings. But in debt for Rent, infancy renders the lease voidable only. The reason is that a deed by an infant as to lands is not void, but voidable only. Cro. James p 320. Dane 4 Vol. p. 441. Art 2d Sec 9. on non est factum to a sealed instrument infancy must be plead [....] same reason 6 Dane, p 131. Art. 8. Sect 3d
+In the present case Cooke’s debt on [. .. .[tract is valid; it must be admitted. The Privilege to escape the consequences of a suit to recover upon this contract in a court of competent jurisdiction must therefore have been pleaded. The privilege does not annul the debt, but might have quashed the process if pleaded.
+Nor can it be said, the process was void. This can only be in cases where the court have no jurisdiction over either the subject matter, or over the process. When the Court proceed without Jurisdiction over the subject matter of the writ, the whole is Coram non judice and merely void. As if a Justice of peace should attempt to proceed in assumpsit on Note of hand, for two hundred dollars, or should entertain a writ of Error? The justice and offer serving the process and all concerned would be trespassers. 1 Conn, p 700. 1 Conn, p 40. 2 Wilson 385-6 and 275. Now Cooke’s claim was within [....] [jurisdiction of the Justice & the writ was the ordinary [....] within his Jurisdiction, and the proceedings were therefore at most voidable only, and the plea of privilege should have been pleaded if the Defendant had any. His default waved it if he had any, and his objection is too late. Indeed to make out the point that the privilege set up made void the proceeding and judgement it must be shown that it nullified the debt, and made the Justice, the officer and the party Pltff trespassers ab initio.
+2d The privilege of the Judge, if any could not render the proceedings irregular and so erroneous. Irregularity is where some part of the proceedings, in a suit at Law is founded on a void authority, as if execution be issued after a year and a day without sci. fa. or upon void judgement &c. Irregularity is always to be detected by the Records, or Rule of Courts, or precedents. But never by some extrinsic facts unknown to the proceedings. In what way is this claim of privilege set up? By plea: by protestation ? It is now a [. .. Jgation dehors the record. See the distinction between void and [void]able; irregular and erroneous in 2d of Salk p 700. Cro. Elizabeth p 466. Nector and others vs Gennet.—
+3d The Common Law Doctrine of Privilege, it should be remembered is the growth of a Government founded upon privilege. The privilege of the few at the cost and deprivation of the many. A government upheld by dignities and privileges. Such a doctrine therefore should be cautiously treated in a government like ours founded on equality in all and for the benefit of all. The idea of privilege in England has no archetype in these United States. Privilege there is for aggrandizement; to overawe and humble the subject and give dignity and authority to Rulers and Judges. In the United States, if a judge or other officer, hold an honorary privilege, it is to enable him to do the work of the people better and for their benefit. To protect him from disturbance or annoyance in the exercise of his trust, and not to elevate him above [....] payment of his debts, or prevent his being made a defend[. . . .] the humblest court known to our jurispr[. . . .] of our institutions and government therefore must be sought the true doctrine of Privilege for the public functionary acting under and by the authority of these institutions and this government.
+Privilege here cannot be claimed farther than the nature and principles of these will warrant.
