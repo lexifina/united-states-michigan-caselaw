@@ -2,7 +2,7 @@
 court: "Michigan Supreme Court"
 docket: "80"
 decided: "1822-09-07"
-citations: ["3 Blume Sup. Ct. Trans. 722", "3 Blume Sup. Ct. Trans. 721"]
+citations: ["3 Blume Sup. Ct. Trans. 722"]
 reporter: "blume-sup-ct-trans"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
