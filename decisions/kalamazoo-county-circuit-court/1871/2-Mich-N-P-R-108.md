@@ -1,0 +1,27 @@
+---
+court: "Kalamazoo County Circuit Court"
+decided: "1871-05"
+citations: ["2 Mich. N.P. R. 108"]
+reporter: "mich-np-r"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Harriet Snell vs. Samuel Scott."]
+source_url: "https://static.case.law/mich-np-r/2/cases/0108-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3869336
+cites_cases: ["1 Doug., 450", "2 Mich., 203", "4 Pick., 354", "9 Mich., 154"]
+---
+
+# Snell v. Scott
+
+## Majority (Brown, J.)
+
+Opinion by
+Brown, J.
+Paragraph 4976, of the Comp. L., as amended by Sess. L. 1867, p. 88, provides that “ The person entitled to the possession of the premises, his agent or attorney, may make complaint in writing and on oath, and deliver the same to a Circuit Court Commissioner, or the Recorder of the city of Detroit, or a Judge of a court of record of the county or city in which the premises are situated, or to.a Justice of the Peace of the township where the premises are located,” &e.
+The following were stated as two of the grounds for the motion :
+1. The service of summons was not made a sufficient length of time prior to the return day thereof.
+2. That the statute does not authorize proceedings of this chart acter to be. had before Judges of the Circuit Courts.
+The statute requires the summons to be served “ at least two days before the return day thereof.” C. L., § 4988. Where the statute requires service of process a certain number of days before the return day, both day of service and the day of the return must be excluded. Douseman vs. O’Malley, 1 Doug., 450; Salee vs. Ireland, 9 Mich., 154. And it seems to be equally well settled that where by statute an act is required to be done in any number of days less than a week, Sunday is to be excluded. Drake vs. Andrews, 2 Mich., 203; Thayer vs. Felt, 4 Pick., 354. Recognizing this’as the correct construction of the statute, renders it unnecessary, in order to dispose of the case, to examine the other question presented by the motion.
+As'the decision upon the question of notice, however, would be but a temporary disposition of the ease, it may be well io consider whether the statute confers jurisdiction upon Judges of the Circuit Courts to hear cases of this character. By the provisions of § 4 986 proceedings under the “ forcible entry and detainer act” might be had before a “ Circuit Court Commissioner or Judge of the Circuit or county Court for the county,” in which the lands were situated In 1861 this section was amended by striking out the words “ or county,” and by conferring jurisdiction upon Justices of the Peace in such cases, in townships or cities where the premises were sitúated, where no Circuit Court Commissioner ■ holds his office. Seas. L. 1861, p. 465. In 1867, this section was amended as first above quoted, providing that the complaint might be delivered to “ a Circuit Court Commissioner,'or Recorder of the city of Detroit, or a Judge of a court of record of the county or city in which the premises are located.” The Circuit Court is a court of record.. But is it a court of record “ of the county” within the meaning of this statute ? I am unable to find in the statutes or rules any reference to Circuit Courts as “courts of the county”; but when referred to in connection with a county, the language is, “ Circuit Ctfurt in the county;” or “ Circuit Court for the county.” The fact that the amendment of 1867, does not refer to Circuit Courts, by name, and that the “ courts of record” referred to are mentioned as “ of the county” is, I -think, significant, as bearing upon the question of the intention of the Legislature. The word “of”.is defined as being equivalent to “ from, or out from : proceeding from, as the cause, source, means author or agent bestowing; belonging to; pertaining or relating to; concerning.” \While the word “ for,” is often used as synonomous with the word “of,” it has a broader, and in some instances a different meaning. To do a thing for another, is to do it in his behalf, and does not imply, necessarily, any authority derived from the person, or that the person doing the act sustains any relation peculiar to the person for whom the thing is done, or any different relation than that sustained to others. I think the wordsof the county” must be construed as pertaining exclusively to the county, and when applied to a court must be held to mean such a court as grows out of and is requisite and incident to a complete organization of the county — a court presided over by a Judge whose official character and authority -is limited to the county. Most of our Cirquits are composed of a number of counties, and in some instances,the Judge resides at so great a distance from some portions of his Circuit, that it would be almost if not quite impossible for a defendant to reach the office of the Judge, on a two day’s notice. The Judge1 of the 11th Circuit, resides at Detroit, while his Circuit is composed of eomparitively new counties in the north part of the State, where during some portions Of the year'the means of conveyance are very limited. These considerations would, at least, furnish a reason for a change in the law; and froin the peculiar phraseology, of the act of 1867, I can arrive at no’other conclusion than that a reasonable and correct construction of this act would be to deprive Circuit Judges of jurisdiction in this class of eases.
+The* proceedings must be dismissed.
