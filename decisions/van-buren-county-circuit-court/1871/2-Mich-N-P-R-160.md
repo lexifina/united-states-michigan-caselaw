@@ -1,0 +1,31 @@
+---
+court: "Van Buren County Circuit Court"
+decided: "1871-04"
+citations: ["2 Mich. N.P. R. 160"]
+reporter: "mich-np-r"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Emory O. Briggs vs. John H. Kaufman, Williamson Mason, Isaac W. Willard, Augustus E. Hardee, Warren G. Kinney, Wilson Lee, Albert R. Wildey and Peter Gremps."]
+source_url: "https://static.case.law/mich-np-r/2/cases/0160-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3869398
+cites_cases: ["10 Mich., 40", "10 Watts, 303", "11 Ohio, 444", "15 Conn., 504", "22 Barb., 271", "4 Sandf., 566", "8 N. Y., 271"]
+---
+
+# Briggs v. Kaufman
+
+## Majority (Brown, J.)
+
+By the Court,
+Brown, J.
+I think it is quite clear from the testimony, that as between Mason and Gremps, or between Mason and Briggs, who took the assignment of the mortgage, if the pleadings would warrant it, Equity would require that the mortgage be declared a lien upon the undivided half of the premises retained by Kaufman when he deeded to Mason. There is nothing in the testmony of Kinney, Mason or Gemps, showing what, if any knowledge, Hardee or Lee had as to the equities between Mason and Gremps.
+On the 20th of April,. 1871, a stipulation closing proofs was filed, signed by Stephenson & Barnum, for the complainant, Upton & Tucker, for the defendant Lee, and Balch, Smiley & Balch, for the defendant Mason. Subsequently the solicitors for the complainant consented to permit the defendant Lee, to put in further testimony, which was accordingly taken. Mason was not a party to this latter stipulation, and hence could not 'be affected by this testimony,
+Lee insists that the maxim “ Lege» vigilantibus nondormientibus subveniunt,” should be applied to the' defendant Mason, and himself — that Mason having slept upon his rights is estopped from asking relief from the mortgage as it appears of reeord, since such relief would prejudice his (Lee’s) ^rights under the Hardee mortgage.
+The relief asked for by the defendant Mason, involves the necessity of a litigation between him and his co-defendants. Under our system of equity practice, not requiring defendants to serve upon their co-defendants notices of their pleadings and proceedings,it is difficult to perceive how a decree can properly be made in favor of one defendant against his co-defendant.
+The defendant Mason, asks substantially, that the Kaufman mortgage be corrected to correspond with the original intent of the parties. Now it is a well settled rule that “ a defendant canno pray anything, in his answer, except to he dismissed the Court,” and “if he has any relief to pray, or discovery to seek, he must do so by a bill of his own, which is called a crossbill. 2 Barb. Ch. Pr, 126; Lube’s Eq. Pl., 39.
+“ A cross bill is used to settle conflicting claims between co-defendants, which it is found necessary to adjust before a complete decree can be made upon the subject matter of the original suit and the rights of the parties therein.” 2 Barb. Ch.Pr., 127; Muf. Eq. Pl., 81; and “a cross .-bill is necessary to enable a defendant to have a decree against a co-defendant.” Talbot vs. McGee,4 Monroe. 379.
+In the case of Pattison et. al. vs. Hull et. al., 9 Cowen, 747, it-was held that a-cross bill is always necessary where the defendant is en titled to some positive relief beyond what the scope of the complainant’s bill will afford him.
+Under the state of the pleadings in this case no decree can be made discharging the lands of Mason from the lien of the Kaufman mortgage. The case must be disposed of by the well settled rule in reference to the marshalling of assets and securities. It must be referred to a commissioner to report the amount due on the mortgage, and on the coming in of that report a decree must be entered for the payment of the sum found due, and in default of such payment that the premises be sold in the inverse order of alienation.
+The answer of Mason prays his premises be decreed discharged from the lien of the Kaufman mortgage. This cannot be done. It also prays that the lands be sold in the inverse order of alienation and incumbrance. Such a prayer is not for affirmative relief, nor does it seek to abridge the complainant’s rights. The order in which the premises are sold cannot affect him.
+In the case of Cooper vs. Byxley, 13 Mich., at page 474, Campbell, J., in delivering the opinion of the Court, says: “ It has always been understood to be the settled law of this State that, where mortgaged premises are conveyed or incumbered in parcels they are upon a foreclosure, to be sold in the inverse order of such conveyances or incumbrances, unless the mortgagee will be prejudiced by having the property sold in parcels.” The reason assigned in the books for this rule is, that where one is owing a debt, his own property should be held to discharge that debt, before taking the property of his grantee. And this equity having arisen in favor of the first purchaser, must remain in his favor against any subsequent equities of other parties derived from his grantor. The reason of the rule applies with equal force where undivided interests are conveyed or incumbered as when separate parcels are conveyed or incumbered. For authorities on the question of marshalling securities, see Mason vs. Payne, Walker's Ch. R., 459; Caruthers vs. Hall, 10 Mich., 40; James vs. Brown, 11 Id., 25; Cooper vs. Byxley et. al., 13 Id., 463; 1 Story’s Eq. Jur., § 633; Howard Ins. Co. vs. Halsey, 4 Sandf., 566; 8 N. Y., 271; Chapman vs. West, 17 Id., 125; La Forge Ins. Co., vs. Bell, 22 Barb., 271; Commermercial Bank vs. Reserve Bank, 11 Ohio, 444; Guion vs. Knapp, 6 Paige, 35; Grosvenor vs. Lynch, 2 Id., 300; Stuyvesant vs. Hale, 2 Barb. Ch. R., 151; Ayers vs. Husted, 15 Conn., 504; Hasting's Case, 10 Watts, 303; Shannon vs. Marsellis, 1 N. J. Ch., 413; Wickoff vs. Davis, 3 Green. Ch., 224.
+Let it be referred to a commissioner to compute the amount due, and on the coming in of his report, take a decree direotiug a sale of the mortgaged premises, in default of payment, in the order I have indicated, governed by the abstract of title submitted in evidence, and selling so much of the premises as shall be necessary to satisfy the mortgage with costs of foreclosure and sale.
