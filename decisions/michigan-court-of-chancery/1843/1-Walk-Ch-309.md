@@ -1,7 +1,8 @@
 ---
 court: "Michigan Court of Chancery"
 decided: "1843-11"
-citations: ["1 Walk. Ch. 309", "1 Walk. Ch. 331"]
+decided_precision: "month"
+citations: ["1 Walk. Ch. 309"]
 reporter: "walk-ch"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
