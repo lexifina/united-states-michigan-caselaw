@@ -1,0 +1,59 @@
+---
+court: "St. Clair County Circuit Court"
+decided: "1871"
+citations: ["2 Mich. N.P. R. 222"]
+reporter: "mich-np-r"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Stilson et al. vs. Charees Greeley et. al."]
+source_url: "https://static.case.law/mich-np-r/2/cases/0222-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3870770
+cites_cases: ["1 Hill, 671", "1 Howard, 195", "2 Watts, 127"]
+---
+
+# Stilson v. Greeley
+
+## Majority (Mitchell, J.)
+
+By the Court,
+Mitchell, J.
+The first question raised in the motion, and perhaps the one most seriously urged, is, that the service upon the defendants was procured by the fraudulent use of the process of this Court, a subpsena issued, as is claimed, for the purpose of bringing the defendants within this jurisdiction, for the sole purpose of commencing- this suit in this county, and Hot in good faith to procure their attendance as witnesses in a cause at issue.
+If before appearance generally or pleading, a motion had.been made to dismiss the suit or quash the writ for that reason, and the fi^ct had been satisfactorily established, there would have been no hesitation in granting the motion.
+The use of the process of the Court under one pretest and for an entirely different purpose such as forcing a party within the jurisdiction of the Court to get service would be. a gross abuse of the process and machinery of the Court, and would not be allowed when brought to the notice of the Court-iu'propor time. — : But if the party comes into Court and voluntarily pleads and submits to the jurisdiction, he cannot afterwards take advantage of the improper manner in which the jurisdiction was acquired.
+Such amotion is in the nature of a plea in abatement, which is never received after plea in lar, unless pleaded, puis da rim continúame, for such reason arising since the last continuance.— 1 Burrill's Practice, 152.
+If the subject matter is not within this jurisdiction, that may be taken advantage of under the “ general issue” whenever the want of jurisdiction is made apparent.
+It is therefore unnecessary to pass upon the question whether any such fact has been established, and I do not pass any opinión upon what has been proved or not proved in that respect.
+it is clear tjfift’the. manner of acquiring jurisdiction of the person of the defendant, is not proper matter to be considerep on a motion to change the venue.
+The second . reapon is that the defendants and their witnesses, to a large number, reside in a distant county, where.tfto cause of action arose, and it is at greabinconvenience that they or their testimony can be procured in this cpunty.
+The plaintiffs also sho.w. that they have a large number of witnesses resident in or near St. Clair County and at a distance .from Alpena.
+T.he affidavit to change venue should properly be made by all the defendants served with process unless they suffer default and refuse to appear; at least, they must all join in the motion.
+If the motion is grounded upon the convenience of parties and witnesses, the affidavit should state the names of the witnesses residing in the county to which the venue is proposed to be changed and their residence, stating the town, village or particular place of residence, in addition to the county; 6 Cowan, 389; 1 Hill, 671; 1 Howard, 195; and that each and every one of them is material to the defence, as the defendants are advised by counsel and verily believe, and that without the benefit of the testimony of each and every one of them they cannot safely proceed to trial, as-advised by counsel and as they verily believe, and that they have a good and substantial defence on the merits, as advised by counsel and as they verily believe, and if not made by all the defendants it should show the reason why. It is well to state also the nature of the controversy, and when the cause of action or the defence arose, and these facts should be taken into consideration in fixing the place for trial.
+The plaintiff may resist the motion by showing material witnesses residing in or near the county where the venue is laid. In the State of New York, the plaintiff under their Hisi Prius practice, where in a case in the Supreme Court the plaintiff laid the venue in any county most convenient to himself, or even by his own caprice, the plaintiff was required in order successfully to oppose the motion, to swear unqualifiedly that he had witnesses in or near the county, of an equal or greater number with the defendant, or the venue would be changed.
+Special rules as to changing venue in that State were required and made growing out of this judicial system.
+There is no doubt that all required by these rules for the defendant to ■ show in order to change a venue should be requirocl here. Whether as full a showing will he required to -defeat the motion, would be subject of doubt.
+In some of the eases it is said' that if a party swears to a great number of witnesses as material, it will be considered as a fraud upon the Court, especially upon questions of value, unless so explained as to satisfy the Court that the number of witnesses is necessary.
+I have given these rules somewhat at large not as criticisms on the affidavits presented, as most of the rules are complied with, but because motions to change a venue in this State are rare and seldom made, at least the Supreme Court has never had occasion to pass upon any such motion, or rather no such matter has found its way into the reports, and from the nature of the motion, it being discretionary with the Circuit Courts, it is highly improbable that our Supreme Court will be called to decide upon the subject
+Our statute provides (Sec. 3420 Comp. Laws,) that each of said (Circuit) Courts, upon good cause shown, may change the venue of any cause pending therein, &e.
+Unless there is a clear abuse of this discretion, the decision of the Circuit must be final.
+There is, however, another rule as to changing venue not yet considered; that is as to the time when the motion should be made, if the change is sought for the convenience of parties and witnesses.
+It ought regularly to be made before issue joined—4 Cowen, 554; 11 Wendell, 186;-but it may be made aiter issue, if -a trial has not been lost, and no delay will be produced, otherwise it will be refused.
+In this case the defendants have not only plead, but have taken the deposition of all the defendants and other of the witnesses named in their affidavit, and have gone to trial and had a disagreement of the jury It would seem rather late now to make or grant the motion at so late, a stage in the case for the convenience of parties and witnesses.
+There is still another question raised by the motion, and that is whether the action as stated and claimed is local or transitory.
+The act of 1861, Sess. Latos, p. 173, and as re enacted in 1871¡ Sess Laws, ’71, p. 37, makes the action of trespass on lands, or trespass on the case for direct or consequential damages to personal property, when the defendant is not an actual resident of the county in which such lands are, a transitory action.
+Sec. 2, of chapter 103, of Revised Statutes; Sec. 4344, of Comp. Laws, as amended in 1869—Sess. Laws, ’69, p. 9, provides:
+'• Issues of fact shall be tried in the proper county, as follows :
+“ 1. Actions'for the recovery of any real estate or for tile recovery of- the possession of real estate; actions for trespass on lands, and actions of trespass on the ease, for injuries to real estate, shall be tried in the county where the subject of the actions shall be situated.
+“2. Actions of slander, for libels, and all other actions for wrongs, and upon contracts, shall be tried in the county where one of the parties shall reside at the time of commencing such action, unless the Court shall deem it necessary for the convenience of parties and their witnesses, or for the purpose of a fair ■ and impartial' trial, to order such issue to be tried in some other county, in which case the same shall be tried in the county so designated.”
+This amendment is a verbatim re-enactment of the section as it stood in the Compiled Laws, except the words, “ joined in such actions,” are left out, which under the law as it was, would appear to limit the provision to actions áiising in Probate Courts. The repeal of this provision as to Probate Courts, made it necessary to reenact section 2, of the chapter, and make it applicable to all issues of fact.
+By the defendant’s affidavit it appears that all the defendants but one, (who is a non-resident of the- State,) were and are residents of Alpena County, and that neither of the plaintiffs at the time of commencement of suit was a resident of St. Clair County.
+This is not denied by plaintiffs except they swear they are nonresidents, &o., but I think it an objection to the local jurisdiction of the person that should have been made and taken advantage of. before issue joined, or at least before proceeding to trial, and that this objection has been clearly waived.
+“ If a defendant in a transitory action appear without objection, the Court will have jurisdiction although the action be improperly brought in a county where neither of the parties reside, but it will be otherwise in the case of a local action.” Webb vs. Godard, 46 Maine, 505.
+But the defendant’s, affidavit also states that the action is for trover for the conversion of logs in Alpena County, cut from lands in that county, and that the real subject matter of the suit is for trespass on lands and the conversion of logs taken by the alleged trespass on lands in that county, the defendants claiming to have cut them under a license from one of the plaintiffs, and that the whole subject matter including the alleged conversion arose in the county of Alpena, a duly organinzed county, having a Court, &c.
+This allegation or statement is not denied by the plaintiffs in their couuter affidavits, and must’be taken to be established or admitted to be true.
+The action is for trover to recover the value of logs and lumber. From the nature of the case as slated in the affidavit, it wouid appear necessary for the plaintiff to prove- title to the lands, (it being wild or unoccupied land) to show ownership of th^ logs, but- the ownership of the laud is not disputed, and it can scarcely be said to be an action of trespass on the case for injuries to real estate. A suit in trover, waives or passes by the the injury to the realty, and seeks to recover the value of the chattels severed and converted without regard to the injury to the land.
+But it is claimed that it has been decided in some of the States' especially Pennsylvania, “ that the right of property in a chattel that has become such by severance from the freehold, connot bo tried in a transitory action;” citing Prwel vs. Smith, 2 Watts, 127; Brown vs. Caldwell, 10th of Sergeant & Rawle, 114; Mather vs. Trinity Church, 3 S. & R.; Baker vs Howell, 6 Id.
+Upon a careful examination of these authorities it is manifest that they only apply to cases where the owner - of real estate out of possession, seeks to recover from the adverse occupant the value of timber, coal, &o., cut or removed by the occupants claiming title, and in effect they only decide that the title to the realty cannot be tried in a transitory action against the actual occupant.— -Xo case goes so far as to say that title to unoccupied lands cannot be shown in a’ transitory action for the purpose of showing the ownership of the property severed.
+In this case the defendants base their claim upon a license from the plaintiff and so admit their title and ownership so far as appears by the papers submitted on this motion.
+In view of the whole case and its present situation in Court, I must décide against the motion to change the venue.
+Motion overruled, &e.
