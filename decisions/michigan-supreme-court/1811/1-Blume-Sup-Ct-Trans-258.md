@@ -1,0 +1,23 @@
+---
+court: "Michigan Supreme Court"
+decided: "1811"
+citations: ["1 Blume Sup. Ct. Trans. 258"]
+reporter: "blume-sup-ct-trans"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOEL THOMAS v. STEPHEN FOLEY"]
+source_url: "https://static.case.law/blume-sup-ct-trans/1/cases/0258-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12092662
+---
+
+# Thomas v. Foley
+
+## Majority
+
+Journal Entries
+1. Discharge from rule to bring in body . . . Journal, infra, *p. 368
+2. Special bail; rule to plead; continuance......“ 392
+Papers in File
+1. Capias and return................
+2. Declaration..................
