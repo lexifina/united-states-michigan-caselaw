@@ -1,0 +1,32 @@
+---
+court: "Detroit Superior Court"
+decided: "1880-05-02"
+citations: ["1 Howell N.P. 90"]
+reporter: "howell-np"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JACOB B. FOX vs. WILLIAM GRAHAM."]
+source_url: "https://static.case.law/howell-np/1/cases/0090-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2240340
+cites_cases: ["5 Allen, 91", "6 Hill, 480"]
+---
+
+# Fox v. Graham
+
+## Majority
+
+The remaining facts sufficiently appear in the following opinion of the Court, Chipman, J., in granting a new trial:
+Fox sued Graham as payee on a promissory note-made by a firm styled Eakins & Co., on which he was an indorser, and which he paid.
+Eakins, Thomas Griffin and Fox attempted to form a limited partnership under the statute, and supposed they had done so. They entered into business, and after a time Eakins bought Griffin out with the knowledge and consent of Fox, who continued, as it is claimed, in the business with Eakins. Section 1579, Compiled Laws, prescribes that every alteration in the names of the partners, if the partnership is carried on afterwards, shall constitute it a general partnership, unless the limited partnership is renewed in the manner provided by the statute. Eakins and Fox did not make this renewal. If they continued the business, their failure to do so constituted them general partners.
+Pierce vs. Bryant, 5 Allen, 91.
+Smith vs. Argali, 6 Hill, 480.
+The court in Pierce vs. Bryant says:
+“ It is a mistake to suppose that in adopting from the civil law the principle of a special or limited partnership, the Legislature intended to graft also on the stock of the common law all the rules of construction which are applied to such a contract in those countries where it forms a part of the regular system of public law. To have done so would have been to make a great inroad on the well settled doctrines of the common law applicable to partnership, especially in that fundamental law, that he who enters into a contract by which he is to contribute capital and share in the profits of a firm, shall be liable in solido for its debts. The intent of the statute is to relax this rule only on certain conditions, and within fixed and prescribed limitations. If these are not fulfilled, or are disregarded, then the statute applies vigorously the rule of the common law by subjecting all members of the firm indiscriminately to the liabilities of general partners.”
+Upon the trial the certificates of partnership required by Section 1570, Compiled Laws of 1871, was offered and objected to on the ground that the note purported to be a partnership note payable to Graham, and that Fox sues the payee here as his indorser, and that, therefore, it is not material what relations Fox bore to the maker. This would have been true if the note, which was paid by Fox in his capacity as indorser, had been for the benefit of Graham, and not for the benefit of Eakins & Co.; but that matter was submitted as a question of fact to the jury. In this' motion for a new trial it is insisted that the certificate lacks essential elements required by the statute. I do not doubt that, but the objection was not made on the trial. It is urged that now it is a matter of discretion whether it shall be considered now. That is true if it would avail anything, but while the parties failed to establish a limited partnership they performed a certain act — entered into an arrangement, which was followed by their conduct of a business. They intended a limited partnership, but did not consummate it because they did not comply with the statute. Still, their agreement for that purpose was the one under which they actually carried on business. It was part of the transaction between them, and in that light is indispensible as history of the case.
+Section 1575, Compiled Laws of 1871, prescribes that “no such partnership (limited) shall be deemed to have been formed until such certificate, acknowledgment and affidavit shall have been filed as above directed.” It appears that the certificate was not acknowledged. Therefore the acknowledgment required by statute could not be filed, and the partnership could “ not be deemed to have been formed.” The attention neither of court nor counsel was called to this fact on the trial, which proceeded on the theory that the steps to form a limited partnership had been pursued and that the withdrawal of Griffin, under the circumstances, ipso facto, made Fox & Eakins general partners. It is plain now that there never was a limited partnership, and Section 1575 does not prescribe that failure to file the certificate, acknowledgment and affidavit shall constitute the partnership a general one. It does prescribe that certain false statements in the certificates shall have that effect, as paragraph 1579 prescribes that failure to renew in a certain manner shall have that effect. Clearly, if all that had been done was the abortive attempt to comply with the statute, no relations would have existed between the parties to it; but it was followed by action — an embarkment in the very business contemplated in that attempt. It is now contended that the inquiry should start from the premises that there never was a special partnership, instead of that there was, and that, in connection with this, the fact that Graham knew that Fox claimed as between him and Eakins to be subject to only limited liability, ought to have been submitted to the jury. In a word, the principle is involved, that one who deals with a partnership with full knowledge of the contract between the parties, has notice, or deals with reference to that contract.
+While I am certain that on the theory adopted by counsel of the validity of the limited partnership the withdrawal of Griffin made Eakins and Fox general partners, I am also certain that the non-existence of the limited partnership devolved on the court the duty of submitting the true relations of Eakins and Fox as a matter of fact to the jury, for them to determine by their conduct subsequent to the attempt to form a limited partnership and what those relations actually were. I think the record as now scrutinized shows that the case was tried upon a wrong theory, in which both counsels participated.
+(May 2, 1880.)
+Griffin & Dickinson for Plaintiff.
+Moore & Moore for Defendant.
+A new trial is granted without costs.
