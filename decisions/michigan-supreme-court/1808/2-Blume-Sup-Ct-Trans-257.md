@@ -2,7 +2,7 @@
 court: "Michigan Supreme Court"
 docket: "N° 71"
 decided: "1808-09-21"
-citations: ["2 Blume Sup. Ct. Trans. 257", "2 Blume Sup. Ct. Trans. 256"]
+citations: ["2 Blume Sup. Ct. Trans. 257"]
 reporter: "blume-sup-ct-trans"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
