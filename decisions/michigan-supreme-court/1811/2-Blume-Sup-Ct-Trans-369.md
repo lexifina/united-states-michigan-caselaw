@@ -1,7 +1,7 @@
 ---
 court: "Michigan Supreme Court"
 decided: "1811-08-31"
-citations: ["2 Blume Sup. Ct. Trans. 369", "2 Blume Sup. Ct. Trans. 368"]
+citations: ["2 Blume Sup. Ct. Trans. 369"]
 reporter: "blume-sup-ct-trans"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
