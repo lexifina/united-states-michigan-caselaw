@@ -2,7 +2,8 @@
 court: "Michigan Supreme Court"
 docket: "N° 78"
 decided: "1808"
-citations: ["2 Blume Sup. Ct. Trans. 278", "2 Blume Sup. Ct. Trans. 277"]
+decided_precision: "year"
+citations: ["2 Blume Sup. Ct. Trans. 278"]
 reporter: "blume-sup-ct-trans"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
