@@ -1,0 +1,51 @@
+---
+court: "Michigan Supreme Court"
+decided: "1893-07-26"
+citations: ["97 Mich. 5"]
+reporter: "mich"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["McGrath, Long, and Montgomery, JJ., concurred. Hooker, O. J., did not sit."]
+parties: ["Edmund W. Angell v. Frank S. Loomis."]
+source_url: "https://static.case.law/mich/97/cases/0005-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1529254
+cites_cases: ["17 Mich. 500", "39 Mich. 33", "69 Mich. 396"]
+---
+
+# Angell v. Loomis
+
+## Majority (Grant, J.)
+
+Grant, J.
+Defendant’s ' brother was the president of the Loomis National Library Association of Richmond, Va. In the absence of his brother, defendant appears to have been acting for the association, and was the only person with whom the plaintiff dealt. June 16, 1887, jfiaintiff made a written contract with this association, by which he was to become its manager for certain counties in the State of Michigan, named in the contract.
+The clauses of the contract, material to this case, read as follows:
+“Said second party also agrees to commence his work with a stock of not less than two thousand (2,000) dollars’ worth of goods, and that he shall pay at least nine hundred (900) dollars to said first party on receipt of said goods, and make such disposition of the money to be collected for them under this contract as is hereinafter set forth.
+“It is also agreed that during the continuance of this agreement said second party shall retain one dollar and a half ($1.50) out of each paid-up initiation fee, for the purpose of using to get new goods as they may be desired or needed from time to time; that, in consideration of the faithful performance of his aforesaid duties, he shall, from the remaining sums so collected by him from paid-up initiation fees, draw as salary an amount not exceeding one hundred and sixty-six and sixty-six hundredths (166.66) dollars per month, and send the surplus that exists to said first party. * * *
+“It is also agreed that said second party shall withdraw from this, business all the capital put in by him at the end of one year, and resign such position if he so desires, first party to have one month notice of such intention.”
+Plaintiff’s evidence showed that, he was- ignorant of the-value of the books, and relied upon the representations made by defendant. During the negotiations, defendant explained to plaintiff why he was required to advance the money, which he said would be repaid to him at the expiration of the contract; that he would receive books to the value of $2,000, which would be security for such repayment.
+Defendant lived in Yermontviile; Mich., and July 20, 1887, in response to a message ' from defendant, plaintiff went to Vermontville, to receive and examine the books. He then asked defendant if he thought they were worth' $2,000, to which defendant replied that he did not think they were, but that they were worth about $1,200, and that the wholesale price was from 90 cents to $1.10 each, whereupon plaintiff paid $700, and gave his notes for $200. The books were shipped to plaintiff at Grand Rapids, and he entered upon the business provided for in the contract, which he continued till some time in August. He then learned that the books were worth at wholesale only 22 cents each. Plaintiff then went to defendant, at Yermontville, and demanded the money back. Defendant told him that he did not think that he had • made as thorough a trial as he ought to; told him to try it a while longer, and if he could not make it work he would give him back his money. Plaintiff went back to Grand Rapids, and remained till.the last of August. Meanwhile he wrote two letters to defendant, which were not answered. He then learned that defendant had removed- to Chicago. He then packed up the books, and deposited them in the depot of the Detroit, Grand Haven & Milwaukee Railway Company at Grand Rapids, but without any direction marked thereon, or any instructions to the depot master what to do with them. He then went to Chicago, found the defendant, again (demanded his money, and informed ' him that the books were at this depot, subject to his order. He then brought •suit to recover back the $700 on the ground of the fraudulent representations as to the value and price of the •books.
+The declaration contained a special count and the common counts. Plea, the general issue. Verdict and judg-ment for plaintiff. Eight errors are assigned.
+1. Objection was taken to the admission of the contract in evidence, because of a variance between the contract set up in the declaration and the one introduced in evidence. The only variance consisted in the change of counties. By a subsequent agreement, indorsed upon the back of the original agreement, certain other counties were substituted for those mentioned in it. The objection is not good, for two reasons:
+(1) The change was immaterial, and in no manner affected the issue involved. That part of the contract
+which was material was correctly set forth.
+(2) Plaintiff was entitled to recover on the common counts, under which the contract was admissible. Johnson v. Insurance Co., 39 Mich. 33.
+2. When plaintiff was cross-examined he was shown a 'copy of a letter purporting on its face to have been written' :to one Taylor, and denied having written such a letter. The purpose in introducing the letter was to contradict plaintiff’s statement, made to defendant shortly after he .received the books, that he could get no agents. Taylor 'was not produced as a witness, nor was there any evidence to show that such a letter had ever been received by him. Defendant testified that he knew plaintiff’s handwriting, and that he had had such a letter'in his possession, but that he was satisfied it was lost; that he had searched for it, but did not state where. We think the copy was properly excluded. The defendant’s rights could not have been injuriously affected by the exclusion of the letter. It had no bearing upon the false representations made.
+3. After defendant had given his version of the transaction; the plan of the association,- and hgd testified that he had been engaged in the business of publishing and selling books, had been in the employ of the association, and subsequently become interested' in another, his counsel then stated to the court;
+“ I want to ask him, — to show by him that the plan was entirely feasible, ancl that the company did a large business. Also I want to show - that there was nothing to prevent this man getting along in this territory, provided he went to work industriously, and used judgment.’’
+After the offer was rejected, counsel further stated:
+“ I ask to be allowed to show by this witness his knowledge of the trade; that he has knowledge of the quality of the. books, and the prices that they retail for, and the plan that was pursued by this Loomis Library Association; that he knows no reason why this man, the plaintiff, should not have made a success of this business. It has this bearing: What right has this man to make a perfectly valid contract to do a perfectly valid thing, and not give it a fair trial, but go down to Grand Bapids a couple of weeks or such a matter, and then say he will repudiate it?’’
+This also was rejected. The ruling was correct. It was an omnibus proposition, containing some matters which were competent, some that the witness had already testified to, and others which were incompetent.
+4. This assignment involves the admission of evidence. It has no exception on which to base it, and will not, therefore, be considered.
+5. Defendant was asked if he intended any fraud, which question was excluded. It is contended that defendant was acting for the association, and unless he knowingly and intentionally committed a fraud he cannot be held liable. Plaintiff’s right of recovery did not depend upon defendant’s intent. The result to plaintiff was the same whether he acted in good or bad faith. The measure of damages in case of recovery was fixed, and could not be affected by the intent. The ruling of the court was therefore correct. Holcomb v. Noble, 69 Mich. 396; Totten v. Burhans, 91 Id. 495.
+6. The testimony of E. T. Loomis, the president of the association, was taken by deposition, under a stipulation that the testimony should be read in court, subject to any objection which might be made if it were taken in open court. An interrogatory was, “Name some of the prominent members of such association at that time,” to which the answer was, “Most of the state and city officers at Kichmond, Virginia, were members, and there were other prominent members in various states, whose names I cannot tell.” The answer was properly excluded, as not responsive to the question.
+7. The court, in instructing the jury on the question of tender, said:
+“Now, where parties are residents of the same town, it is usual, as in the case of a horse, to take it back, and tender it to the person; but if it is other property that naturally belongs to a warehouse, and the person is a transient, it is proper to leave it in a warehouse, subject to the order of such person, and to give notice of the fact; and, I think, if that was done in this case, it would be a sufficient tender if it was done within a reasonable time, as soon after the discovery as could consistently be made.”
+Defendant had left the State. Plaintiff had deposited the goods, and notified him ivhere they were, and that they were subject to his order. The tender was sufficient.
+8. The court, after a full and fair charge, said at the close:
+“Of course, all that I have said before at this term, with regard to evidence and the right of the jury to determine the facts in a case, applies here.”
+What' the court referred to, and its meaning, are clear from the next sentence:
+.“The .burden is upon the plaintiff to establish' his case by a preponderance of proof. You will determine what facts are established, and base your verdict upon them.”
+This sentence is the substance of what had before been said, and there is no possibility that it was misunderstood by the jury, or that defendant was prejudiced by it.
+Judgment affirmed.
+McGrath, Long, and Montgomery, JJ., concurred. Hooker, O. J., did not sit.
