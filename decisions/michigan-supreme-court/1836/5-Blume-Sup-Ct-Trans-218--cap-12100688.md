@@ -1,7 +1,8 @@
 ---
 court: "Michigan Supreme Court"
 decided: "1836"
-citations: ["5 Blume Sup. Ct. Trans. 218", "5 Blume Sup. Ct. Trans. 148"]
+decided_precision: "year"
+citations: ["5 Blume Sup. Ct. Trans. 218"]
 reporter: "blume-sup-ct-trans"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
