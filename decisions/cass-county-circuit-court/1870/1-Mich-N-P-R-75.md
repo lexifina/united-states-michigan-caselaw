@@ -1,0 +1,34 @@
+---
+court: "Cass County Circuit Court"
+decided: "1870-01"
+citations: ["1 Mich. N.P. R. 75"]
+reporter: "mich-np-r"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Benjamin Zeller, Plaintiff in Error, vs. D. Wayne Harris, Defendant in Error."]
+source_url: "https://static.case.law/mich-np-r/1/cases/0075-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6050381
+cites_cases: ["32 Barb., 551", "40 Barb., 94", "44 Barb., 456", "5 Mich., 26", "8 Mich., 132", "9 Mich., 241"]
+---
+
+# Zeller v. Harris
+
+## Majority (Brown, J.)
+
+By the Court,
+Brown, J.
+I have some doubt whether the instrument declared upon is a promissory note, and weie it not for the decision in the case of Smith et al. vs. Kendall 9 Mich., 241, I should be of the opinion that it was not. I do not, however, think it necessary to declare what the instrument is for the, purposes before us. If it is not a promissory note, then there-is no force whatever in the first allegation of.error.
+The paper declared upon, whatever it may be, is payable-to order, and íb indorsed by the payee in blank.. In the case of Peacock vs. Rhodes, 2 Doug. (Eng.), 633, Lord Mansfield said: “I see no difference between a note indorsed in blank and one payable to bearer. They both go by delivery, and possession proves property in both cases.” See 1 Burr, 452; 3 Burr, 1516; and cases cited in note “M," 1 Parsons on Contracts, 5th Ed., 242.
+While some Courts have held the necessity of proving the signature of the indorser, I think the decided weight of authorities is the other way. Possession, then, must be taken as prima facie evidence of ownership for a valuable consideration. This view of the case disposes of the first, second, and third alleged grounds of error.
+The fourth and fifth allegations of error raise the question whether judgment could be properly rendered against one only of two joint debtors.
+An interesting case is cited in 1 Saunders R., 291, note 2. The case was this: “ Debt against J. N. on bond. It appealed on oyer that there were two other obligors, whereupon defendant prayed judgment of the writ because the bond was joint and the others were not named ; et non allocatwr. The defendant then pleaded that it appeared by the bond that the other two are hound who are not named. Judgment of the writ, etnon allocatur ; for it is not the form, of pleading, but defendant should aver that the other two executed the bond who are in full life not named. Judgment of the writ.” And of such opinion was the whole Court.
+It is true the rule laid down in. the books is that the plaintiff must join as defendants all the parties who are joint obligors or contractors; and it has been held that where, in an action against one joint obligor, it appears on the face of the declaration or other pleading of the plaintiff who the other joint obligors are, and that such other joint obligors are still living, the Court will arrest the judgment; because the plaintiff himself shows that another ought to bé joined, and it would be absurd to compel the'defendant to plead facts which are already admitted.
+My examination of the authorities has been somewhat hasty, and I have found no case where a judgment has been arrested on the ground of non-joinder unless the plaintiff’s pleadings showed that some other person should have been joined, and that such person was still living, or unless the defendant had inter* posed a plea in abatement. But it may be said that the note or instrument in question is unlike most of the undertakings upon which decisions have been made upon this point in this, that the one under consideration is a joint undertaking, and not joint and several.
+Does proof of a promise in the words “ we promise to pay” support and prove a promise by one joint promisor alone?
+In the case of Rice vs. Shute, 5 Burr, 2611, Lord Mansfield is quoted as saying: “All contracts with partners are joint and several; every partner is liable to. pay the whole. In what proportion the others should contribute is a matter merely among themselves.” And in the’ case of Tooker vs. Bennet & Brower, 3 Caine's R., 4, Livingston, Jr, says: “ A joint debt is the debt of each as well as of all the partners.” In the case of Rice vs. Shute the question was whether, if one of two partners was sued alone, he could, on the trial, nonsuit the plaintiff by showing that there was another person who ought to have been joined as defendant; and it was held that advantage of the non-joinder could be taken only by plea in abatement.
+Although Lord Mansfield has often been quoted as authority that the words “ we promise to. pay” mean “ we promise jointly and severally to pay,” Spencer, Ch. J., in the case of Robertson vs Smith, 18 Johnson, 459, says: “It would be straining Lord Mansfield’s opinion unreasonably to say he meant, technically, that all contracts with partners -were joint and several, for then •the non-joinder of any of the partners never could be pleaded in abatement,- which all the Court expressly decided.” Judge Cady, in his brief in the case in 18 Johnson, in commenting on the language of Lord Mansfield, says: “ When, therefore, he says all contracts with partners are joint and several, he means no more than that if one party were sued, and did not plead the non-joinder of his copartner in abatement, the contract should be •considered so far several that he should not, on the trial, be permitted to show that the contract was joint in order to defeat the plaintiff’s action.’’
+Though, technically, the promise in the instrument upon which suit was brought in this case is not several, yet,-as the •two persons whose names are subscribed to it are to do but one thing, when that is done — when the obligation is paid — though but by one, the other is discharged from further liability to the holder of the paper. Each, before the rendering of the judgment, in this case, was bound for the full payment; and this is the meaning and scope of their promise.
+' In this case the paper writing showed the subsisting indebtedness of both Zeller and Barber. Zeller, by his pleading, put in issue his alleged promise; and though it appears that another promised with him, as he (Zeller) did not elect to avail himself of the benefit of a plea in abatement, he is estopped from further .questioning his liability. The judgment against him is a bar to any proceedings by the defendant in error against Barber, for, as to him, he has suspended his remedy by changing the indebtedness against both to a debt of record against Zeller.
+With this view of the case, it becomes unnecessary to examine the statutes referred to by counsel on the argument. X do not conceive that they have any bearing on the question before us.
+The judgment of the Court below must be affirmed.
