@@ -1,0 +1,37 @@
+---
+court: "Michigan Court of Chancery"
+decided: "1839"
+citations: ["1 Harr. Ch. 12"]
+reporter: "harr-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Wright vs. Jonathan L. King and others"]
+source_url: "https://static.case.law/harr-ch/1/cases/0012-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 219323
+---
+
+# Wright v. King
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+It is a well established principle in equity, that if a party has a defence at law, of which he is advised before the trial, and neglects to make it, or to apply to this court for a discovery, if necessary to his defence in aid of the trial at law, he is precluded and cannot afterwards have relief in this court. (1.)
+Lord Hardwick says, it must appear that the defendant was ignorant at the time of the trial, of the fact which renders the vei’dict at law contrary to equity; and even then, chancery will not relieve where the defendant submits to try it at law first, where he might, by a bill of discovery, have come at the facts by the plaintiff’s answer before trial at law. (See 1 John. Ch. R., 50.)
+In 1 Schoales and Lefroys’ R., 201, Lord Redesdale says: “I do not know that equity ever does interfere to grant a trial of a matter which has already been discussed at law;” and at the close of the opinion, he says: “I think it unconscientious and vexatious to bring into a court of equity, a discussion which might have been had at law.”
+In the court of errors in New York, in the year 1800, (1 John. Ch., 436,) it was decideed in a case involving a large amount, that where a party in a suit at law, has a knowledge of fraud or other matter of defence, and neglects to make his defence at law, a court of chancery will not interfere.
+In the case of McVickar vs. Wolcott, 4 J. R., 510, in 1808, Van Ness, Spencer and Kent on the bench, it was decided that a court of chancery will aid a defendant in obtaining a discovery before a trial, but not afterwards.
+Van Mess, in giving his opinion, says: “granting that such answer would have furnished a complete defence, still as they omitted to take the necessary steps to possess themselves of that answer before the trial at law, which they might, and if they deemed it important, ought to have pursued, they are now too late.” The other judges concurred in the same conclusion.
+In 1 J C. R., 51, chancellor Kent says; “the general rule is that this court will not relieve against a judgment at law, on the ground of its being contrary to equity, unless' the defendant below was ignorant of the fact in question pending the suit, or it could not" have been received as a defence. If a party will suffer judgment to pass against him by neglect, he cannot have relief here for a matter which he might have availed himself of at law.”
+In Thompson vs. Berry, 3 J, C. R., 395, which was a cause of exceeding hardship, relief was granted as to that part of the demand to which no defence at law could have been made; but the court refused to interfere as- to the balance, because the party had suffered judgment at law to pass against him, without making his defence or applying for discovery before the trial.
+In the case of Smith vs. Lowry, 1 Johns. Ch. R., 320, where an iniquitous judgment was obtained by subornation, the same rule was rigorously adhered to.
+As the same question is involved in several cases now pending in -this court, I have purposely referred, briefly, to the leading decisions made at different periods, both in England and this country, and by men who are universally acknowledged to have been the great luminaries in this branch of jurisprudence.
+When we find such men as Lord Hardwick, Lord Redcsdale, Yan Ness and Kent, concurring in the same principles, it would almost be presumption to question the correctness and justice of those principles.
+It remains only to apply these principles to the case under consideration. It was urged at the hearing, that, from difference of parties, an insurmountable difficulty existed in obtaining the aid of this court by a discovery prior to the trial at law. I cannot perceive any such difficulty. King, the party enjpined here, was either a party to the agreement to release and indemnify the complainant from all his liabilities for ColHns, and among others the note to Kinzie, or he was not. If he was not a party to that agreement, he is not bound by it; and it would he unjust and contrary to equity to enjoin and Inhibit him from the collection of Wright’s proportion of their joint liability. If King was a party to that contract, a discovery of that fact might have been obtained by a bill for that purpose in this court, and it would have been a perfect defence to the action at law by King against the complainant; nor can there be a doubt that a court of chancery would have stayed proceedings at law, until an answer to the bill for discovery could have been obtained. But, from the case made by the bill, it would seem that the complainant had a defence at law, without resorting to a court of chancery. According to the statement in the bill, Goodwin knew all the facts’, and what the contract was; and I cannot perceive on what grounds King could have objected to the introduction of Goodwin as a witness, on the trial of the suit at law, between King and the complainant.
+It occurred to me at the hearing, that it was possible that the bill could be sustained on the ground of the trust, as urged in the argument; but, upon further examination,.and on the authority of the case in 5 Johns. Ch. R., 1, I am satisfied that it cannot.
+To raise a trust by implication, there must be an actual payment of money; and to take the case out of the statute of frauds, the' terms and conditions of the trust must be in writing, under the hand of the party to be charged. There may be other special circumstances where courts have declared a trust, none of which exist here.
+Upon the whole, I am of the opinion that the injunction cannot be sustained, but must be dissolved.
+Injunction dissolved.
+) Where a party to a suit at law has knowledge of a fraud or other matter of defence in , time to avail himself of it, at the trial at law, and he neglects to do so, he cannot afterwards obtain relief in a court of equity against the judgment at law, on the ground of such fraud or matter of defence which he might have set up at the trial*, but is forever concluded by the judgment* Le Guen vs. Gouverneur, 1 John. Ca., 436.
+The Court of Chancery must be satisfied that a party has justice in his cause, of which he could not avail himself at law, before it will interfere. Irby vs. McCrea, 4 Desau R., 422. Where there is a good defence aflaw, equity will not relieve, except the party was prevented from making his defence, by circumstances not attributable to his neglect or Inattention.— Cunningham vs. Caldwell, Hardin R., 173; Cowell vs. Price, 1 Bibb R., 173; Reeves vs. Hogan, Cooke R., 175: Overton vs. Leary, Id., 36; Winthrop vs. Lane, 3 Desau. R., 323; Gatlin vs. Kirkpatrick, 1 Car. Law Rep., 584; Lee vs. Bales, 2 Ch. Ca., 95; Williams vs. Lee, 3 Atk. R., 223.
+A for a discovery comes too late after a trial at law; it should have been filed pending the suit at law, so that the facts disclosed in the answer might have been used as evidencebefore the jury. Thurmond vs. Dunham, 3 Yerger R., 99.
